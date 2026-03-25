@@ -1,1 +1,0 @@
-print("hola clase 1c 2026")
