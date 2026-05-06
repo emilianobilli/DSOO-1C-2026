@@ -50,9 +50,6 @@ class Barco(Transporte):
     def energia(self):
         return "Combustible"
 
-    def capacidad(self):
-        return 20
-
     def hundirse(self):
         return "Se fue a pique"
 
