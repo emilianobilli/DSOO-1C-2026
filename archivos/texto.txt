@@ -1,0 +1,5 @@
+Hola Chicos, 
+espero que esten disfrutando de esta clase
+esto es un ejemplo de como leer archivos.
+Saludos
+Emiliano
